@@ -1,0 +1,7 @@
+# Device PIN mapping
+# Format: serial: "pin"
+# All test devices use variations of "1"
+
+R3CY20S5QWN: "1111"
+ABCD1234567: "11111"
+XYZ9876543: "111111"

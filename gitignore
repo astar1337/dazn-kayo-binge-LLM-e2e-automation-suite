@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+credentials/*_creds.yaml
+reports/
+.idea/
+.vscode/
+.DS_Storeconfig/device_pins.yaml
+config/device_pins.yaml
+reports/history.db

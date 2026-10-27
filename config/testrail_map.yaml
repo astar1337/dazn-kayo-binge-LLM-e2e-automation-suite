@@ -1,0 +1,29 @@
+# Maps our test IDs to TestRail case IDs
+# Format: OUR_TEST_ID: TESTRAIL_CASE_ID
+#
+# Find the case ID in TestRail:
+# Open a test case > look at the URL > /cases/view/12345
+# The case ID is 12345 and so on...
+
+## WORK IN PROGRESS ##
+
+# DAZN Login
+TC-DAZN-LOGIN-001: 2372249
+TC-DAZN-LOGIN-002: 
+TC-DAZN-LOGIN-003: 
+TC-DAZN-LOGIN-004: 
+
+# DAZN Playback
+TC-DAZN-PLAY-001: 
+TC-DAZN-PLAY-002: 
+TC-DAZN-PLAY-003: 
+TC-DAZN-PLAY-004: 
+
+# DAZN Navigation
+TC-DAZN-NAV-001: 
+TC-DAZN-NAV-002: 
+TC-DAZN-NAV-003: 
+
+# DAZN Search
+TC-DAZN-SEARCH-001: 
+TC-DAZN-SEARCH-002: 
